@@ -1,3 +1,3 @@
 # Algo
 
-This repo includes submitted work on Algo lab.
+This repo includes submitted lab work on Algo lab.
